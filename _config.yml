@@ -1,2 +1,3 @@
 name: Dave Myers | Post-punk media has-been.
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title

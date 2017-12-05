@@ -1,8 +1,7 @@
 # Site settings
 title: Dave Myers | Post-punk media has-been.
 email: davy@davy.us
-description: > # this means to ignore newlines until "baseurl:"
-Researcher, data architect and analyst. Former hardcore punk/ghetto funk drummer. Former editor/publisher of grunge-era music and arts ’zine, Paperback Jukebox.
+description: > # this means to ignore newlines until "baseurl": Researcher, data architect and analyst. Former hardcore punk/ghetto funk drummer. Former editor/publisher of grunge-era music and arts ’zine, Paperback Jukebox.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "davydog.github.io" # the base hostname & protocol for your site
 twitter_username: davydog
